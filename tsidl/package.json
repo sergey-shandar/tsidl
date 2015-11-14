@@ -1,0 +1,27 @@
+{
+  "name": "tsidl",
+  "version": "1.0.0",
+  "description": "TypeScript as IDL (Interface Definition Language)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sergey-shandar/tsidl.git"
+  },
+  "keywords": [
+    "typescript",
+    "idl",
+    "rpc"
+  ],
+  "author": "Sergey Shandar",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/sergey-shandar/tsidl/issues"
+  },
+  "homepage": "https://github.com/sergey-shandar/tsidl",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
