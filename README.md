@@ -1,5 +1,5 @@
 # TSIDL
-TypeScript as IDL (Interface Definition Language)
+TypeScript as IDL (Interface Definition Language). See also [Web IDL](https://heycam.github.io/webidl/).
 
 ## For Developers
 
